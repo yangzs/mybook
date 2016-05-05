@@ -1,0 +1,337 @@
+http://120.52.148.150/client.action?body=%7B%22page%22%3A%221%22%2C%22pagesize%22%3A%2210%22%7D&functionId=indexRecommend&uuid=868746021418065-38bc1a3cb9d9&clientVersion=5.0.1&build=28529&client=android&d_brand=Meizu&d_model=MX5&osVersion=5.1&screen=1920*1080&partner=meizu&area=1_72_2839_0&networkType=wifi&st=1462351604685&sign=1623e715483c89ecbe50dee03383014a&sv=110
+
+
+response:
+
+{
+	"recommendList": [{
+		"wname": "金龙鱼 东北大米 蟹稻共生 盘锦大米5KG",
+		"sourceValue": "0_88_0_885987_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "29.90",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=885987$index=0$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=2b555959624843a88d8377685d977fc724b6620b",
+		"st": "0",
+		"wareId": "885987",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t1258/40/17387560/108696/aced445f/54e011deN3ae867ae.jpg!q70.jpg.webp"
+	}, {
+		"wname": "奥克斯（AUX）2匹 定速 冷暖 二级能效 白色 微联智能圆柱空调柜机 （KFR-51LW/R1TC01+2）",
+		"sourceValue": "1_88_1_1553022_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "4199.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTkyNzU4NTlfMTIwNyZ0bz1odHRwOi8vaXRlbS5tLmpkLmNvbS9wcm9kdWN0LzE1NTMwMjIuaHRtbA&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9CdVI_-73Ty-o89viyzWGUt8f1bdMYXijcuJiMqPeVSCU5_Byw-nD3LS7MAUu97e6UX-RhlyEahHxa7eAbr1k-0f6zFelEi057M_utvisEGDUWgCwaH_uPVaLcukojZTdh9mUEfUDn3d2tYJR5gByq1oSrkdQ55CGv4N6AftUfEYswyDZJW_VIWo1LFBrNgRhFyAMFpXO_3Xv4_nu3bQfc8pWrALnmpJgLhD2jfxksuCWUHiKRYkTT8W0etob1ZZ2YR4oIJ7P5RVMekzlWU4GIP8dYor9AdmGv-MwFhNAUhPYDUnEQ806PIQsyyDNpOV-vylF2Asf5qY3aQabAtqzP5CEif5VH0kYx3r6DW5uCVcVBXSvo8zbf25VrH2pQu__kBWTIKauUFx7ecjz0mYCed&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d1553022$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "1553022",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2794/271/691743117/24187/fa12d7b/5721c757N3465974b.jpg!q70.jpg.webp"
+	}, {
+		"wname": "西域美农 薄皮核桃250g*2袋坚果炒货",
+		"sourceValue": "0_88_2_1265424_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "24.99",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=1265424$index=1$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=4d0e1c7468699272d1289a55b67556624718fcd2",
+		"st": "0",
+		"wareId": "1265424",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t1300/249/284990184/241192/c6b7a6bc/55d598b0N7f0fe294.jpg!q70.jpg.webp"
+	}, {
+		"wname": "顺发（SHUNFA）U型压力锅304不锈钢16cm高压锅六重保险燃气电磁炉通用",
+		"sourceValue": "1_88_3_10038729112_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "0",
+		"jdPrice": "149.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTIwNzk0NF8xMjA3JnRvPWh0dHA6Ly9pdGVtLm0uamQuY29tL3Byb2R1Y3QvMTAwMzg3MjkxMTIuaHRtbA&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9BC35lR_NGMNEl4gTF5T7nZillGeQYQAb293pNXXIfqjAG8WeWcj-mAE7_ELvP5dmkbF2_kqSqrCgOC2baJSRcIXg_0CvPfYN43t7c9NFIVvmuQHtmY0OVC5XO4pWqIciIzxqynKqpayJ_yYApDKc9nHOk-EeUgkp-aUkbeXTmFQtWcz-jyaHpjLjhuLMKqcUKzUO7-TSM_fxFhyUpXUUBMl4L1zLtDZKia57HCTVu11K7TbTotbo6N2kLYG4ocJvTlhjBtpbeX6S9d1W_QsxchCEy1Xyh8gSHbLR3MFYvNfHbTD-AEfueabxWitOSsg86P-pHwdWSRx6N1WhdXVlio8XNPVIkc9TNoIN_6SoM4J_c_6QpnMu_43IJeMlHSk1K1rkxPbmFZDPtBuYVNZXip&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d10038729112$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "10038729112",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2029/24/1147088882/87360/7f837b1a/564ad59eN32cf1311.jpg!q70.jpg.webp"
+	}, {
+		"wname": "金龙鱼 葵花籽 食用调和油 5L",
+		"sourceValue": "0_88_4_918498_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "45.90",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=918498$index=3$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=48d6ef30f9ba55a699ba5d62c0b1232c8c67ae26",
+		"st": "0",
+		"wareId": "918498",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2695/361/553775757/44317/45ffaf88/5719d56dN4585d708.jpg!q70.jpg.webp"
+	}, {
+		"sourceValue": "6_1",
+		"dnaId": "3",
+		"description": "生活就是一场现场直播",
+		"dnaName": "影像生活",
+		"type": "dna",
+		"wareList": [{
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t1102/3/265445227/97956/fd9add6f/5511219cNa20d12ef.jpg!q70.jpg",
+			"wareId": "1419860"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t2071/8/1646605703/216520/efe1d65f/56663b97N0ee4999b.jpg!q70.jpg",
+			"wareId": "2213140"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t1531/287/324319845/34068/18f7b617/5574f479N86902b70.jpg!q70.jpg",
+			"wareId": "1608987"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t1438/254/1028119776/111367/3ca9779d/55b75046N36c5898b.jpg!q70.jpg",
+			"wareId": "1745292"
+		}],
+		"jump": {
+			"des": "geneRecom",
+			"srv": "6_1",
+			"params": {
+				"fromGeneId": "3",
+				"needLogin": "1"
+			}
+		}
+	}, {
+		"wname": "爱宝（Aibao）ab-8800 彩屏无线盘点机 数据采集器 PDA终端支持win8",
+		"sourceValue": "1_88_6_1074887_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "774.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTg0NDcwNzdfMTIwNyZ0bz1odHRwOi8vaXRlbS5tLmpkLmNvbS9wcm9kdWN0LzEwNzQ4ODcuaHRtbA&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9DqaPuQAvQt7D9tCxiPj0pA5-H2edAZriV_-m4xJf0ncbfXNv2rvNHX-7oj6Hm6QOdQ0TBWd0Z85BJiKabyQsLuoujOcO7SudfY8NsrGV5NKh4GaKPtQ8J651w6AMOuR1VDxY0clCbnStkW52RZgCANnkP5OeAjBbXqh58gZdpqGtrIYKNjzIs4pNCuLqFt1pP50v4hCH8tRpCWVWHFEjboZCp_f14rGXP10hUMUBJSOT-c1Xm213yNzyXIdqW54Qu14liSwHI8un02Nl1PXHM0ieBg2v8AF-E4vz6CqcgweZQuDqZ0IweTgvwEa_XF75lvZMa9rM93gc1QywyQua7IH1pMK4UwGSqN5acRgxtoidYYgHUi1P401UvWTQ_uUFU&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d1074887$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "1074887",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_g13/M02/1B/1B/rBEhUlMfuPAIAAAAAAE0rUJiCqoAAJ5ygH7RrsAATTF026.jpg!q70.jpg.webp"
+	}, {
+		"wname": "香满园 东北大米 蟹稻共生 盘锦生态珍珠大米 5kg",
+		"sourceValue": "0_88_7_1249046_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "29.90",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=1249046$index=4$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=18d6496a0660631af298f0bf8d5dba34d7554abc",
+		"st": "0",
+		"wareId": "1249046",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2122/79/1080684408/109906/74d02e4c/563ae892N0bae072a.jpg!q70.jpg.webp"
+	}, {
+		"wname": "统帅（Leader）正2匹 定频 冷暖 高效静音 立柜式空调 KFR-50LW/06ZCC13T-DS",
+		"sourceValue": "1_88_8_1322321_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "4299.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTIwNzk0NF8xMjA3JnRvPWh0dHA6Ly9pdGVtLm0uamQuY29tL3Byb2R1Y3QvMTMyMjMyMS5odG1s&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9BC35lR_NGMNEl4gTF5T7nZ65V0odYgKtYW4HBpj7E89R7O7vrsi3njnE4mtEo5UHheU5PATnMt4f2Wx59aAALrr6vTapeNJ7xGpdaOiSo11A8PwfDVwif6rHzWjXAbtC37FVuN55dbfT4bI3lepnq9HPTyhXQE8nov5wLm0o_cqF4DB5EQvqw82ttVMvXSpSHXW___yIicY7KbtGy2AVQW6qNGzywUEuL5-RwxLO9R1Hqfzy02I1v9y4gZMLxxS4EsTBqb0zZuSt7JFEaOuTkghtxg0RtdM3dWovLxzffjxCJlMfFF_y3WrtEcDp26j2o0B754ulTX5gsT8JajpNjdVOT40xuFmeYogLKURjkXDKgXOlfJfyHYhXaqSYYRy3_FquuC8s456LfOmkK7YQ7d&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d1322321$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "1322321",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2617/81/700708893/29778/442d8873/5722036cN134f5509.jpg!q70.jpg.webp"
+	}, {
+		"wname": "岛上书店",
+		"sourceValue": "0_88_9_11678007_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "24.10",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=11678007$index=6$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=a7fe16785ab613f0c4d727215e44189c6bcdcbad",
+		"st": "0",
+		"wareId": "11678007",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t1099/340/584783761/444035/83bb7a9c/5530a843N5601590f.jpg!q70.jpg.webp"
+	}, {
+		"sourceValue": "0_88_10_168177_6_1_null_0_0",
+		"hasPromotion": false,
+		"hasNewWare": false,
+		"followCount": 224,
+		"logoUrl": "http://img30.360buyimg.com/popshop/jfs/t2335/9/252756857/9561/d64f57e8/55f81dc2Ndc23fb49.png",
+		"clk": "//mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=168177$index=10$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=b6fd9c1aa52385e4d0775f83ed6b6c92319f6bdb",
+		"type": "shop",
+		"hasCoupon": false,
+		"venderType": 0,
+		"shopId": "168177",
+		"shopName": "silverlight全球精选",
+		"clickUrl": "",
+		"st": "0",
+		"wareList": [{
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t2746/329/866689615/259906/d8c6b859/57299d58N350da6c9.jpg!q70.jpg",
+			"wareId": "1954467169"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t2494/205/1387021318/63315/492a948d/5698f23fN41d6398a.jpg!q70.jpg",
+			"wareId": "1957908874"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t2173/40/2366219582/77926/f8fa476d/56dacaa1Nced76e91.jpg!q70.jpg",
+			"wareId": "1957686607"
+		}],
+		"hasActivity": false
+	}, {
+		"wname": "苏泊尔好帮手铝合金压力锅18/20/22/24/26/28CM高压锅 燃气灶适用 锅口径18cm 1-2人用 YL183H2",
+		"sourceValue": "1_88_11_10209614732_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "119.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTIwNzk0NF8xMjA3JnRvPWh0dHA6Ly9pdGVtLm0uamQuY29tL3Byb2R1Y3QvMTAyMDk2MTQ3MzIuaHRtbA&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9BC35lR_NGMNEl4gTF5T7nZGiuGQXqVre1ZzSkxaMf92_7mXFStAmkAjukO0UTl-OcWLwHRffBzVSoKewuYSDpZTjTB7P--0aUppizLVermch4ZV8FtRz4SYqz1UtUQcSKIdPWELLwzcQFomUPqGf3AVHCLXj2cocRD4fZtOE7Wop8POLK-GpV-W3yqbQoAVsmj0IngvZX7IAy4V6EDy2I1qmMkE6H20knwwKRrVTDluzaJdnodlfSh-IvKgbRHjWJJhcSKs_63A3y_IJpq49FknmpptKFBiVPMhr85jKisFfGcgLrW5oR5Qt46RzqtE6JIc0na-2yI5TM-2SHuI2IsCFzLn0Zn1Y6e5jjmEPgC0TIDG0x7L6reHrMVJHGMaYjroiWjOGwRENYoPXfFj7Yx&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d10209614732$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "10209614732",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t1855/262/2443481127/138723/5c322491/57065d91N1ce1b840.jpg!q70.jpg.webp"
+	}, {
+		"wname": "三只松鼠 坚果炒货 零食奶油味 夏威夷果265g/袋",
+		"sourceValue": "0_88_12_2518087_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "19.90",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=2518087$index=7$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=e942e5a2e06e049bb87b1f8533f0f3f8133e5078",
+		"st": "0",
+		"wareId": "2518087",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2185/5/2707056436/356808/2be83568/56ea3a0fN12d87b59.jpg!q70.jpg.webp"
+	}, {
+		"wname": "海尔（Haier）1.5匹 变频 静音空调 冷暖 壁挂式空调 KFR-35GW/01JDA23A ",
+		"sourceValue": "1_88_13_1332467_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "2449.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTIwNzk0NF8xMjA3JnRvPWh0dHA6Ly9pdGVtLm0uamQuY29tL3Byb2R1Y3QvMTMzMjQ2Ny5odG1s&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9BC35lR_NGMNEl4gTF5T7nZw5yeUyYJft_FwtrLlYTbVmDAdBXOwFI_r-qzwDeqvfN_XA0mzToBAumSpfnCmA5NA2hHlDgLfrhQUPIuFonIkfvyk9lqeC51-3gbxkelDDrtZxG1fg4Fzons7_AfAGcStk9tbrpGVrBc3kLeMxe232C43KH1PbdVaomneDF3k5fFY2e_hkLqpi4vVgF29QZ9fS4Kmhe5-z-OPK3R4laDX19sI_iP8z8t9-eKZFk6c-o_BJiD5dh6xZJYQ2le5NXK4AAUBkv0ml8GsLYLuegnu3ZM268vWZ6f9yjzS6kpfL1IbDmAqMy-pD081yj7tkIOUlhRRxD-R8Bb0PHCP673PbNdJVhqZA_Hro1MoiZbRYv_jR7DB5GJgwF9qFDlCHrl&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d1332467$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "1332467",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2800/135/496821101/64737/4d592f55/5715e8b9Ncc543533.jpg!q70.jpg.webp"
+	}, {
+		"wname": "360随身WiFi3 300M 无线网卡 迷你路由器 黑色",
+		"sourceValue": "0_88_14_1319118_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "24.90",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=1319118$index=8$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=5e6349d6184940c81d4e6401f5d9447142180eb6",
+		"st": "0",
+		"wareId": "1319118",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t478/153/886206867/83918/24d11d17/54b8ae03N63a25d6c.jpg!q70.jpg.webp"
+	}, {
+		"sourceValue": "16_1",
+		"dnaId": "8",
+		"description": "生活更加便利",
+		"dnaName": "数码控",
+		"type": "dna",
+		"wareList": [{
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t1855/197/556220885/24001/29a32ff7/56179f0bNdb2a69b3.jpg!q70.jpg",
+			"wareId": "1138288"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t2698/67/374389828/154853/1cc8c05f/5710bd92N715a79bb.jpg!q70.jpg",
+			"wareId": "965012"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t2215/82/842568566/70428/56eb3dfb/562dcaa6N51e15ea5.jpg!q70.jpg",
+			"wareId": "2089982"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t2215/51/705087162/87887/172877c9/5625ecc2Nb39787e8.jpg!q70.jpg",
+			"wareId": "2002883"
+		}],
+		"jump": {
+			"des": "geneRecom",
+			"srv": "16_1",
+			"params": {
+				"fromGeneId": "8",
+				"needLogin": "1"
+			}
+		}
+	}, {
+		"wname": "禾太（Hetai）HT-615CK 无线插卡监控摄像头室内半球摄像机监控器监控头 免布线存储摄录TF卡家用一体机",
+		"sourceValue": "1_88_16_1320843_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "102.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTIwNzk0NF8xMjA3JnRvPWh0dHA6Ly9pdGVtLm0uamQuY29tL3Byb2R1Y3QvMTMyMDg0My5odG1s&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9BC35lR_NGMNEl4gTF5T7nZkyL_L-_D47qM88z8BxJ9QI6XS3hCR6wYzbFH9MqX6PiHtJIuQYpBDeS4_xkFdiFMOlDwXT-wz2OHiUee0j9OHRFf6st2JN9aLQmy3YdURr2ZqzsfSTni6VGalj1GP8G16xyRQuRCXA_dYvDF0kEC_Mdc0VHx0JRC_lrmr5Nq5WSY4_ULeN4DJiHfpXUMIF_U5fZwvawM5lWjE78hIhbR26tnS1z8B2Et4ZQ7EWIluMp27UPgR_Ytk3bf8meQ62KyKnJBoXgIjdKDqTnxacViJg9lUwNPB-iar7ZicSsUBmRT8gKjV6GfKfATlO-uePlZnUJs2EMaxUTyOhONxq2u4w6ZE1EmPTnY7Wz1Cd6G4AoQo7UqMeXlXszNz5CqNSDU&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d1320843$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "1320843",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t721/133/494097934/129030/58fac7db/54b76177N48a5afa2.jpg!q70.jpg.webp"
+	}, {
+		"wname": "十月稻田 2015新米 长粒香大米 东北大米5kg",
+		"sourceValue": "0_88_17_958912_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "39.00",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=958912$index=9$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=219c0175b5b5636b5be564ea70ace6763c1ff804",
+		"st": "0",
+		"wareId": "958912",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2224/314/1475289530/359984/fc2cc566/565fb82eN85fc37b9.jpg!q70.jpg.webp"
+	}, {
+		"wname": "北纯 东北杂粮 糙米400g(真空装）",
+		"sourceValue": "1_88_18_1552950_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "8.90",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTIwNzk0NF8xMjA3JnRvPWh0dHA6Ly9pdGVtLm0uamQuY29tL3Byb2R1Y3QvMTU1Mjk1MC5odG1s&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9BC35lR_NGMNEl4gTF5T7nZOLUoC4d9MuSC_sxX1VrkifVnTdtMYoJ50MCsMGjeNApvfVs18XjIojAZdwyDzskJZ1dQyM1LfVjdNM29MrAfNixpIrr4mBpgBLNpAXj19vHRsRrqwWLUKKikndkHTVfkkEcQb4z4PvPi7t-HyusJQD0XfNHYoYY3ZkxR7spaNkEJ1sptsIdS53bLFgkkLq1DYHTDGskahm7KvnPxKDeSeqwSe5xGM97r09k2N1rctas2YdndTa6vSOe8lf-Fea8sC9i2kL5MmQwg9xBwOn6R2kBi0mVfjEWtsVQhrY-wk_r8LUVL1mIeeKKzojSiZGCNea0oDc5BZU6t1NW9RJGyqJcRASBHGIWXtebLbwYMHDWUOVkii7zHjnJUafDLzbP7&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d1552950$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "1552950",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t1144/65/866398125/165448/2f76c9fa/55532ae8Nc43713c6.jpg!q70.jpg.webp"
+	}, {
+		"wname": "三只松鼠 坚果炒货 零食炭烧味 炭烧腰果185g/袋",
+		"sourceValue": "0_88_19_2542861_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "19.90",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=2542861$index=12$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=9744251e3fe93ea628cf06e10c31ac41ecaaf299",
+		"st": "0",
+		"wareId": "2542861",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2224/167/2750730050/370703/8b19684/56f0a0e3N889758fc.jpg!q70.jpg.webp"
+	}, {
+		"wname": "凯琳OIX 润滑液润滑剂润滑油 1瓶装",
+		"sourceValue": "1_88_20_1668779329_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "39.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTIwNzk0NF8xMjA3JnRvPWh0dHA6Ly9pdGVtLm0uamQuY29tL3Byb2R1Y3QvMTY2ODc3OTMyOS5odG1s&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9BC35lR_NGMNEl4gTF5T7nZkcyl2IRlX61-8S8XtkXIBP-0nYscBLB6yTY34PvDvm9zIDYR8XQ_fFIetk1QQGHxHkt3LDyIZzzxBLqek8Ky3gwurLdzTujk3VrM-9sjFJzoRHxFLByBkXQzSk04nUR2EQRkXAc1A436rR9xJMCXq3hpx5VknLjQKUpB5tmWH5kutVNHICRivSauyWW-EvIF0fnCUal6xdiSTjGuJKlLWzLQA7M_j67Jzro5uZzNe8qHq_RcMQ6alUVzfpkpjGNe0A4ePMj7VmjX8tguyM-W473K5kmpU66bI4H4FdSrhGR68XBe31ln3eoqjDxQetG3tVMnnLCw7dbvPZKlV4VYESWJBoj9PWMTOI7g3w3IMd7Tqh564BkWfkdw0YQpG0LX&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d1668779329$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "1668779329",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2023/217/1339866942/181727/3657c9d5/564eac47Nee70f33d.jpg!q70.jpg.webp"
+	}, {
+		"wname": "金沙河面粉 家用小麦粉 馒头粉饺子粉  5kg ",
+		"sourceValue": "0_88_21_1974031_6_1__0_0",
+		"sid": "",
+		"lookSimilar": "1",
+		"jdPrice": "26.80",
+		"clickUrl": "http://mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=1974031$index=13$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=d8e37e1e02d4e54ed2ee8841858dbb1adf25c8d4",
+		"st": "0",
+		"wareId": "1974031",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2023/251/1924825328/280050/98c3c853/568484ccN9d527d23.jpg!q70.jpg.webp"
+	}, {
+		"sourceValue": "0_88_22_1000000877_6_1_null_0_0",
+		"hasPromotion": false,
+		"hasNewWare": false,
+		"followCount": 57209,
+		"logoUrl": "http://img30.360buyimg.com/popshop/jfs/t901/205/263987725/25349/58fbae94/5510daf1Ne434333c.jpg",
+		"clk": "//mercury.jd.com/log.gif?t=rec.621017&v=src=rec$action=1$reqsig=abecf9d83a2ca50af9dc66a31f016eae622ab749$enb=1$sku=0$p=621017$pin=304446772-412782$uuid=868746021418065-38bc1a3cb9d9$csku=1000000877$index=22$st=0$adcli=$expid=106$im=&rid=8109900958710162504&ver=1&sig=bc591f861d596016992ee4ff8456df35acc5947b",
+		"type": "shop",
+		"hasCoupon": false,
+		"venderType": 1,
+		"shopId": "1000000877",
+		"shopName": "佳能影像官方旗舰店",
+		"clickUrl": "",
+		"st": "0",
+		"wareList": [{
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t1075/50/430984182/137613/612f02c5/552cd838N660506b9.jpg!q70.jpg",
+			"wareId": "1471489"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_g14/M07/10/1C/rBEhVVI4NKUIAAAAAAISZsizYPgAADTEAKslXsAAhJ-226.jpg!q70.jpg",
+			"wareId": "974380"
+		}, {
+			"imgPath": "http://m.360buyimg.com/mobilecms/s390x390_jfs/t655/54/390705495/343456/9d44a250/54641c6bN24826aad.jpg!q70.jpg",
+			"wareId": "592892"
+		}],
+		"hasActivity": false
+	}, {
+		"wname": "OIX 润滑油润滑液润滑剂水溶性 阴道肛交 1瓶装",
+		"sourceValue": "1_88_23_1746491220_6_1_168abbbf-b2a4-4256-82c0-6d67b2e17391_0_1",
+		"sid": "168abbbf-b2a4-4256-82c0-6d67b2e17391",
+		"lookSimilar": "1",
+		"jdPrice": "38.00",
+		"clickUrl": "http://ccc.x.jd.local/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTIwNzk0NF8xMjA3JnRvPWh0dHA6Ly9pdGVtLm0uamQuY29tL3Byb2R1Y3QvMTc0NjQ5MTIyMC5odG1s&log=9aaY1Cxxj3ShRPMdjdZsx8YCk9TTzfEkk5F8ekW_U9BC35lR_NGMNEl4gTF5T7nZk-9Muld730jbcYKURmv_3aMhZ9mWU-qKbMJxYM_1ZpFJBsR_qBgAYefMca7Pkaf1I7N91nZVdr7e1LbVedAQ26r6qIXIj366AKlUUXXUC-Z1Ya7UblwZL48u41yrSHsPSQQyUUaKHbWv9nKQ2RJG9ucHoq1DpeUy8DLnYpib7SoTHilp_hwd1JvyrTvtd87b9mv-OFxrGzKZGWxgfzwK65z4XgYbNwXYpVPS3u708wXJZxLkeIBaYBaNQMwUytt4LnxoGEsxQWXejj8yF5eBbIluhB4aNwvJCJF4wqyJFAFVkAnwWTQDHuTahp80RP05JrA0_PkH1i1T-wW2fJFyIGzfDaxQQnzCrFkEAgoT_PKcuFVu0oe4jZOw6f6Jougz&v=404&ru=http%3a%2f%2fmercury.jd.local%2flog.gif%3ft%3drec.000000%26v%3dsrc%3dmix$action%3d8$sku%3d-1$csku%3d1746491220$adposid%3d1207$adsid%3d168abbbf-b2a4-4256-82c0-6d67b2e17391&clicktype=1&",
+		"st": "1",
+		"wareId": "1746491220",
+		"type": "ware",
+		"imageurl": "http://m.360buyimg.com/mobilecms/s468x468_jfs/t2089/260/1548433969/323560/986fb81e/56618a16N1f67ce40.jpg!q70.jpg.webp"
+	}],
+	"floorIntro": "16:46 为你推荐已更新",
+	"p": "621017",
+	"code": "0",
+	"totalPage": 26,
+	"expid": "106"
+}
